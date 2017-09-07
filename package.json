@@ -15,5 +15,9 @@
     "commander": "^2.11.0",
     "filehound": "^1.16.2",
     "nuget-runner": "^0.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/braydie/nuget-update.git"    
   }
 }

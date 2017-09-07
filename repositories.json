@@ -1,0 +1,14 @@
+[
+    {
+        "alias" : "default",
+        "url" : "http://api.nuget.org/v3/index.json"
+    },
+    {
+        "alias" : "main",
+        "url": "http://nugetservermain/nuget"
+    },
+    {
+        "alias" : "release",
+        "url" : "http://nugetserverrelease/nuget"
+    }
+]

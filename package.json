@@ -1,0 +1,19 @@
+{
+  "name": "nuget-update",
+  "version": "0.0.1",
+  "description": "Command line tool for quickly updating your solutions to use the latest version of nuget packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "nu": "./index.js"
+  },
+  "author": "Braydie Grove",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "filehound": "^1.16.2",
+    "nuget-runner": "^0.1.10"
+  }
+}
